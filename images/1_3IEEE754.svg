@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 809.85 28.21">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 21.73px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231815;
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-3 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        fill: #6dbc61;
+      }
+
+      .cls-7 {
+        fill: #e72238;
+      }
+
+      .cls-2 {
+        font-size: 20.46px;
+      }
+
+      .cls-5 {
+        fill: #32abe3;
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="_32位预留" data-name="32位预留">
+    <rect class="cls-5" x=".5" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="25.78" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="51.05" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="76.33" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="101.61" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="126.88" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="152.16" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="177.44" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-4" x="202.71" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-6" x="330.63" y=".5" width="25.28" height="25.28"/>
+    <rect class="cls-6" x="735.05" y=".5" width="25.28" height="25.28"/>
+    <g>
+      <g>
+        <rect class="cls-7" x="784.07" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="758.8" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="733.52" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="708.24" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="682.97" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="657.69" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="632.41" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="607.14" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="581.86" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="556.58" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="531.31" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="506.03" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="480.75" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="455.48" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="430.2" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="404.92" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="379.65" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="354.37" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="329.1" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="303.82" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="278.54" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-7" x="253.27" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-7" x="227.99" y=".5" width="25.28" height="25.28"/>
+      </g>
+      <g>
+        <polyline class="cls-3" points="253.27 25.78 227.99 25.78 227.99 .5 253.27 .5"/>
+        <polyline class="cls-3" points="278.54 25.78 253.27 25.78 253.27 .5 278.54 .5"/>
+        <polyline class="cls-3" points="303.82 25.78 278.54 25.78 278.54 .5 303.82 .5"/>
+        <polyline class="cls-3" points="329.1 25.78 303.82 25.78 303.82 .5 329.1 .5"/>
+        <polyline class="cls-3" points="354.37 25.78 329.1 25.78 329.1 .5 354.37 .5"/>
+        <polyline class="cls-3" points="379.65 25.78 354.37 25.78 354.37 .5 379.65 .5"/>
+        <polyline class="cls-3" points="404.92 25.78 379.65 25.78 379.65 .5 404.92 .5"/>
+        <polyline class="cls-3" points="430.2 25.78 404.92 25.78 404.92 .5 430.2 .5"/>
+        <polyline class="cls-3" points="455.48 25.78 430.2 25.78 430.2 .5 455.48 .5"/>
+        <polyline class="cls-3" points="480.75 25.78 455.48 25.78 455.48 .5 480.75 .5"/>
+        <polyline class="cls-3" points="506.03 25.78 480.75 25.78 480.75 .5 506.03 .5"/>
+        <polyline class="cls-3" points="531.31 25.78 506.03 25.78 506.03 .5 531.31 .5"/>
+        <polyline class="cls-3" points="556.58 25.78 531.31 25.78 531.31 .5 556.58 .5"/>
+        <polyline class="cls-3" points="581.86 25.78 556.58 25.78 556.58 .5 581.86 .5"/>
+        <polyline class="cls-3" points="607.14 25.78 581.86 25.78 581.86 .5 607.14 .5"/>
+        <polyline class="cls-3" points="632.41 25.78 607.14 25.78 607.14 .5 632.41 .5"/>
+        <polyline class="cls-3" points="657.69 25.78 632.41 25.78 632.41 .5 657.69 .5"/>
+        <polyline class="cls-3" points="682.97 25.78 657.69 25.78 657.69 .5 682.97 .5"/>
+        <polyline class="cls-3" points="708.24 25.78 682.97 25.78 682.97 .5 708.24 .5"/>
+        <polyline class="cls-3" points="733.52 25.78 708.24 25.78 708.24 .5 733.52 .5"/>
+        <polyline class="cls-3" points="758.8 25.78 733.52 25.78 733.52 .5 758.8 .5"/>
+        <polyline class="cls-3" points="784.07 25.78 758.8 25.78 758.8 .5 784.07 .5"/>
+        <rect class="cls-3" x="784.07" y=".5" width="25.28" height="25.28"/>
+      </g>
+    </g>
+    <text class="cls-1" transform="translate(4.79 20.43) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(30.83 20.67) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(232.56 20.43) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(283.62 20.67) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(309.66 20.9) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-2" transform="translate(54.32 20.43) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(78.07 20.43) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(106.28 20.43) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(130.41 20.43) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(157.09 20.43) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(181.6 20.43) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(205.73 20.43) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(257.43 20.67) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(332.36 21.14) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-1" transform="translate(384.85 20.9) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(410.9 21.14) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-2" transform="translate(358.66 20.9) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(433.6 21.38) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-1" transform="translate(485.32 21.38) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(511.36 21.62) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-2" transform="translate(459.13 21.38) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(534.07 21.86) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-1" transform="translate(585.79 21.86) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(611.83 22.1) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-2" transform="translate(559.6 21.86) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(634.53 22.34) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-1" transform="translate(687.28 22.1) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(713.32 22.34) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(763.11 22.46) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-1" transform="translate(789.15 22.69) scale(1.6 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-2" transform="translate(661.09 22.1) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-2" transform="translate(736.02 22.58) scale(2.22 1)"><tspan x="0" y="0">1</tspan></text>
+  </g>
+</svg>

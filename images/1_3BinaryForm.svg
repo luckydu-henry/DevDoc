@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 809.85 26.28">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        font-size: 22.29px;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #231815;
+        font-family: AdobeSongStd-Light-GBpc-EUC-H, 'Adobe Song Std';
+        font-weight: 300;
+      }
+
+      .cls-5 {
+        fill: #4bc0e2;
+      }
+
+      .cls-4 {
+        font-size: 22.29px;
+      }
+
+      .cls-6 {
+        fill: #e8394f;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="_导出图层" data-name="导出图层">
+    <rect class="cls-2" x="330.63" y=".5" width="25.28" height="25.28"/>
+    <g>
+      <g>
+        <rect class="cls-5" x="379.65" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-5" x="354.37" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="329.1" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-5" x="303.82" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="278.54" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="253.27" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-5" x="227.99" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="202.71" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="177.44" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-5" x="152.16" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="126.88" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="101.61" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-5" x="76.33" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="51.05" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-5" x="25.78" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-5" x=".5" y=".5" width="25.28" height="25.28"/>
+      </g>
+      <g>
+        <polyline class="cls-1" points="25.78 25.78 .5 25.78 .5 .5 25.78 .5"/>
+        <polyline class="cls-1" points="51.05 25.78 25.78 25.78 25.78 .5 51.05 .5"/>
+        <polyline class="cls-1" points="76.33 25.78 51.05 25.78 51.05 .5 76.33 .5"/>
+        <polyline class="cls-1" points="101.61 25.78 76.33 25.78 76.33 .5 101.61 .5"/>
+        <polyline class="cls-1" points="126.88 25.78 101.61 25.78 101.61 .5 126.88 .5"/>
+        <polyline class="cls-1" points="152.16 25.78 126.88 25.78 126.88 .5 152.16 .5"/>
+        <polyline class="cls-1" points="177.44 25.78 152.16 25.78 152.16 .5 177.44 .5"/>
+        <polyline class="cls-1" points="202.71 25.78 177.44 25.78 177.44 .5 202.71 .5"/>
+        <polyline class="cls-1" points="227.99 25.78 202.71 25.78 202.71 .5 227.99 .5"/>
+        <polyline class="cls-1" points="253.27 25.78 227.99 25.78 227.99 .5 253.27 .5"/>
+        <polyline class="cls-1" points="278.54 25.78 253.27 25.78 253.27 .5 278.54 .5"/>
+        <polyline class="cls-1" points="303.82 25.78 278.54 25.78 278.54 .5 303.82 .5"/>
+        <polyline class="cls-1" points="329.1 25.78 303.82 25.78 303.82 .5 329.1 .5"/>
+        <polyline class="cls-1" points="354.37 25.78 329.1 25.78 329.1 .5 354.37 .5"/>
+        <polyline class="cls-1" points="379.65 25.78 354.37 25.78 354.37 .5 379.65 .5"/>
+        <rect class="cls-1" x="379.65" y=".5" width="25.27" height="25.28"/>
+      </g>
+    </g>
+    <rect class="cls-2" x="735.05" y=".5" width="25.28" height="25.28"/>
+    <g>
+      <g>
+        <rect class="cls-6" x="784.07" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="758.8" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-6" x="733.52" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="708.24" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="682.97" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-6" x="657.69" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="632.41" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="607.14" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-6" x="581.86" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="556.58" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="531.31" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-6" x="506.03" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="480.75" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="455.48" y=".5" width="25.27" height="25.28"/>
+        <rect class="cls-6" x="430.2" y=".5" width="25.28" height="25.28"/>
+        <rect class="cls-6" x="404.92" y=".5" width="25.28" height="25.28"/>
+      </g>
+      <g>
+        <polyline class="cls-1" points="430.2 25.78 404.92 25.78 404.92 .5 430.2 .5"/>
+        <polyline class="cls-1" points="455.48 25.78 430.2 25.78 430.2 .5 455.48 .5"/>
+        <polyline class="cls-1" points="480.75 25.78 455.48 25.78 455.48 .5 480.75 .5"/>
+        <polyline class="cls-1" points="506.03 25.78 480.75 25.78 480.75 .5 506.03 .5"/>
+        <polyline class="cls-1" points="531.31 25.78 506.03 25.78 506.03 .5 531.31 .5"/>
+        <polyline class="cls-1" points="556.58 25.78 531.31 25.78 531.31 .5 556.58 .5"/>
+        <polyline class="cls-1" points="581.86 25.78 556.58 25.78 556.58 .5 581.86 .5"/>
+        <polyline class="cls-1" points="607.14 25.78 581.86 25.78 581.86 .5 607.14 .5"/>
+        <polyline class="cls-1" points="632.41 25.78 607.14 25.78 607.14 .5 632.41 .5"/>
+        <polyline class="cls-1" points="657.69 25.78 632.41 25.78 632.41 .5 657.69 .5"/>
+        <polyline class="cls-1" points="682.97 25.78 657.69 25.78 657.69 .5 682.97 .5"/>
+        <polyline class="cls-1" points="708.24 25.78 682.97 25.78 682.97 .5 708.24 .5"/>
+        <polyline class="cls-1" points="733.52 25.78 708.24 25.78 708.24 .5 733.52 .5"/>
+        <polyline class="cls-1" points="758.8 25.78 733.52 25.78 733.52 .5 758.8 .5"/>
+        <polyline class="cls-1" points="784.07 25.78 758.8 25.78 758.8 .5 784.07 .5"/>
+        <rect class="cls-1" x="784.07" y=".5" width="25.28" height="25.28"/>
+      </g>
+    </g>
+    <text class="cls-3" transform="translate(383.89 20.12) scale(2.04 1)"><tspan x="0" y="0">1</tspan></text>
+    <text class="cls-3" transform="translate(407.64 20.12) scale(2.04 1)"><tspan x="0" y="0">0</tspan></text>
+    <text class="cls-4" transform="translate(434.75 20.12) scale(2.34 1)"><tspan x="0" y="0">1001</tspan></text>
+    <text class="cls-4" transform="translate(534 20.12) scale(2.34 1)"><tspan x="0" y="0">1001</tspan></text>
+    <text class="cls-4" transform="translate(635.57 20.36) scale(2.34 1)"><tspan x="0" y="0">1001</tspan></text>
+    <text class="cls-4" transform="translate(735.05 20.61) scale(2.34 1)"><tspan x="0" y="0">100</tspan></text>
+  </g>
+</svg>
